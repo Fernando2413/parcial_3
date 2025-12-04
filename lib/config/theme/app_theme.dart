@@ -9,5 +9,4 @@ class AppTheme{
       colorSchemeSeed: seedColor,
     );
   }
-
 }

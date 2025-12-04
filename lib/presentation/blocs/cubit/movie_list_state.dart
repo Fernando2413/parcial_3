@@ -1,11 +1,9 @@
-import 'package:equatable/equatable.dart';
 import 'package:parcial_3/models/movie_model.dart';
 
-class MovieListState extends Equatable {
+class MovieListState {
   
   const MovieListState();
 
-  @override
   List<Object?> get props => [];
 }
 
